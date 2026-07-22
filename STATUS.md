@@ -4,4 +4,6 @@
 - Scope: source-pinned theorem/algorithm contract plus finite CPU checks of the stated constants, budget, surplus, individual-rationality, and descending-clock monotonicity invariants.
 - Completed: source-pinned verifier passes five claim certificates, including rounded-decimal reconciliation against exact source formulas.
 - Completed: tests, fail-closed gate, and Trackio evidence with clean relative command capture and pinned conclusion.
-- Next: secret scan, public GitHub handoff, then canonical backlog handoff.
+- Completed: secret scan and public GitHub handoff at commit `ea9f145`.
+- FULL_GATE_READY: hqFugMmCqJ
+- Next: canonical backlog handoff through the shared publisher.
