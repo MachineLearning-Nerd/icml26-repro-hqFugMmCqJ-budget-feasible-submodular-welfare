@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "title": "Repro - Budget-Feasible Mechanisms for Submodular Welfare Maximization",
+  "emoji": "🎯",
+  "space_id": null,
+  "paper": null,
+  "tags": [],
+  "updated_at": "2026-07-22T12:58:47+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Repro - Budget-Feasible Mechanisms for Submodular Welfare Maximization",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "overview",
+        "title": "Overview",
+        "file": "pages/overview/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-c1-general-welfare-constant",
+        "title": "Claim C1 — general welfare constant",
+        "file": "pages/claim-c1-general-welfare-constant/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-c2-monotone-welfare-and-runtime",
+        "title": "Claim C2 — monotone welfare and runtime",
+        "file": "pages/claim-c2-monotone-welfare-and-runtime/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-c3-valuation-ratio",
+        "title": "Claim C3 — valuation ratio",
+        "file": "pages/claim-c3-valuation-ratio/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-c4-complexity-improvement",
+        "title": "Claim C4 — complexity improvement",
+        "file": "pages/claim-c4-complexity-improvement/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-c5-economic-properties",
+        "title": "Claim C5 — economic properties",
+        "file": "pages/claim-c5-economic-properties/page.md",
+        "children": []
+      },
+      {
+        "slug": "methods",
+        "title": "Methods",
+        "file": "pages/methods/page.md",
+        "children": []
+      },
+      {
+        "slug": "negative-controls",
+        "title": "Negative controls",
+        "file": "pages/negative-controls/page.md",
+        "children": []
+      },
+      {
+        "slug": "tests-and-gate",
+        "title": "Tests and gate",
+        "file": "pages/tests-and-gate/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "agent_view_tokens": 1370,
+  "revision": "1784725127976043376"
+}

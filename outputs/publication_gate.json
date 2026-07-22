@@ -1,0 +1,8 @@
+{
+  "paper": "hqFugMmCqJ",
+  "gate": "passed",
+  "tests_passed": true,
+  "publication_gate_passed": true,
+  "verified_claims": 5,
+  "scope": "Source-pinned theorem contract plus finite descending-clock budget/IR/monotonicity controls; not a rerun of unreleased large SNAP experiments."
+}
