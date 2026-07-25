@@ -1,0 +1,186 @@
+{
+  "dataset": "Slashdot",
+  "n": 77360,
+  "results": {
+    "100": {
+      "BFM-SWM": {
+        "welfare": 898.504,
+        "queries": 265260
+      },
+      "Deng-Distorted": {
+        "welfare": 210.815,
+        "queries": 192030345
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 0.0,
+        "queries": 195778917
+      }
+    },
+    "200": {
+      "BFM-SWM": {
+        "welfare": 2835.39,
+        "queries": 265284
+      },
+      "Deng-Distorted": {
+        "welfare": 458.489,
+        "queries": 191751009
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 0.0,
+        "queries": 195778917
+      }
+    },
+    "300": {
+      "BFM-SWM": {
+        "welfare": 2864.1,
+        "queries": 265291
+      },
+      "Deng-Distorted": {
+        "welfare": 646.893,
+        "queries": 192544100
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 0.0,
+        "queries": 195778917
+      }
+    },
+    "400": {
+      "BFM-SWM": {
+        "welfare": 4030.51,
+        "queries": 265298
+      },
+      "Deng-Distorted": {
+        "welfare": 793.139,
+        "queries": 187524037
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 898.504,
+        "queries": 195778917
+      }
+    },
+    "500": {
+      "BFM-SWM": {
+        "welfare": 6779.92,
+        "queries": 265324
+      },
+      "Deng-Distorted": {
+        "welfare": 1065.72,
+        "queries": 187281068
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 898.504,
+        "queries": 195778917
+      }
+    },
+    "600": {
+      "BFM-SWM": {
+        "welfare": 7053.79,
+        "queries": 265338
+      },
+      "Deng-Distorted": {
+        "welfare": 1272.05,
+        "queries": 193084713
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 898.504,
+        "queries": 195778917
+      }
+    },
+    "700": {
+      "BFM-SWM": {
+        "welfare": 7229.25,
+        "queries": 265348
+      },
+      "Deng-Distorted": {
+        "welfare": 1406.39,
+        "queries": 178253795
+      },
+      "Deng-ROI": {
+        "welfare": 0.0,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 1721.99,
+        "queries": 195778917
+      }
+    },
+    "800": {
+      "BFM-SWM": {
+        "welfare": 7267.31,
+        "queries": 265356
+      },
+      "Deng-Distorted": {
+        "welfare": 1466.9,
+        "queries": 184625835
+      },
+      "Deng-ROI": {
+        "welfare": 898.504,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 1721.99,
+        "queries": 195778917
+      }
+    },
+    "900": {
+      "BFM-SWM": {
+        "welfare": 7461.0,
+        "queries": 265359
+      },
+      "Deng-Distorted": {
+        "welfare": 1799.8,
+        "queries": 187791013
+      },
+      "Deng-ROI": {
+        "welfare": 898.504,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 2499.77,
+        "queries": 195778917
+      }
+    },
+    "1000": {
+      "BFM-SWM": {
+        "welfare": 7427.49,
+        "queries": 265368
+      },
+      "Deng-Distorted": {
+        "welfare": 1934.0,
+        "queries": 180394438
+      },
+      "Deng-ROI": {
+        "welfare": 898.504,
+        "queries": 412020533
+      },
+      "Deng-CostScaled": {
+        "welfare": 2499.77,
+        "queries": 195778917
+      }
+    }
+  }
+}

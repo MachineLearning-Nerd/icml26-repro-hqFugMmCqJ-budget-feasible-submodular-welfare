@@ -1,3 +1,12 @@
 .venv/
 __pycache__/
 .pytest_cache/
+.synthetic_only
+cpp_im/build/
+cpp_im/Graph/
+.openresearch/artifacts/snap/
+outputs/EVAL.md
+outputs/claim_*.json
+outputs/claim_verdicts.json
+outputs/verification.json
+outputs/publication_gate.json
